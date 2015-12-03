@@ -3,7 +3,7 @@ import time
 import random
 import threading
 
-cmtedouglas_access_token = 'iladhg3lhy3wx8gtep7ytk7gbact68'
+cmtedouglas_access_token = ''
 
 
 def generate_random_string():
